@@ -1,0 +1,11 @@
+/* This will be the external method where we want to
+ div: red background, white text, 32px font, centered alined, and bold */
+
+ div {
+     color: white;
+     background-color: red;
+     font-size: 32px;
+     font-weight: bold;
+     text-align: center;
+
+ }

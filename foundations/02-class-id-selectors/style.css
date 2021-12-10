@@ -1,0 +1,20 @@
+.odd {
+    background-color:rgb(255, 167, 167);
+    font-family: "veranda", sans-serif;
+}
+
+.oddly-cool{
+    font-size: 24px;
+}
+
+#bb {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#greenb{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
